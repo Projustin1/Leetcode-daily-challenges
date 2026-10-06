@@ -17,3 +17,7 @@ public:
         return openBrackets + minAddsRequired;
     }
 };
+
+// For loop can also be written 
+//          for (size_t i = 0; i < s.length(); ++i){ 
+//               char x = s[i];  }
