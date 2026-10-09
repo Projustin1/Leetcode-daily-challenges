@@ -22,16 +22,20 @@ leetcode-daily-challenges/
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
