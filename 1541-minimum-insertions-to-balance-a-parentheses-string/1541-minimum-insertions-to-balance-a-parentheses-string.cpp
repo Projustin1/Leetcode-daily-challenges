@@ -2,7 +2,6 @@ class Solution {
 public:
     int minInsertions(string s) {
         int LeftCount = 0;
-        int closing = 0;
         int insertions = 0;
         for(int i = 0; i < s.length();){
             char x = s[i];
