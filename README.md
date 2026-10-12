@@ -38,4 +38,12 @@ leetcode-daily-challenges/
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Array
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/2778-sum-of-squares-of-special-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
