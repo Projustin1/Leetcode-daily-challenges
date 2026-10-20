@@ -71,4 +71,8 @@ leetcode-daily-challenges/
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/2089-find-target-indices-after-sorting-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
