@@ -42,6 +42,7 @@ leetcode-daily-challenges/
 ## Array
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -52,6 +53,7 @@ leetcode-daily-challenges/
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -65,4 +67,8 @@ leetcode-daily-challenges/
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Projustin1/Leetcode-daily-challenges/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
